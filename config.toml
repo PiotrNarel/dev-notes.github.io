@@ -3,3 +3,4 @@ languageCode = 'pl-PL'
 title = 'dev-notes.pl | Piotr Narel'
 theme = 'PaperMod'
 publishDir = 'docs'
+relativeURLs = true
