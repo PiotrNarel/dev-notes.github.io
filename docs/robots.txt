@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://dev-notes.pl:80/sitemap.xml
+Sitemap: https://dev-notes.pl:80/sitemap.xml
