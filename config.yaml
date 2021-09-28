@@ -134,11 +134,15 @@ menu:
         - identifier: archives
           name: Archiwum
           url: /archives
-          weight: 20
+          weight: 30
+        - identifier: links
+          name: Linki
+          url: /links
+          weight: 40
         - identifier: search
           name: Szukaj
           url: /search
-          weight: 40
+          weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:

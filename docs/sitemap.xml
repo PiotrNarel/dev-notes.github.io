@@ -2,25 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dev-notes.pl:443/categories/abc/</loc>
-  </url><url>
     <loc>https://dev-notes.pl:443/archives/</loc>
   </url><url>
     <loc>https://dev-notes.pl:443/categories/</loc>
   </url><url>
-    <loc>https://dev-notes.pl:443/categories/def/</loc>
-  </url><url>
     <loc>https://dev-notes.pl:443/</loc>
   </url><url>
     <loc>https://dev-notes.pl:443/links/</loc>
-  </url><url>
-    <loc>https://dev-notes.pl:443/posts/</loc>
-  </url><url>
-    <loc>https://dev-notes.pl:443/tags/privacy/</loc>
-  </url><url>
-    <loc>https://dev-notes.pl:443/posts/samplepost/</loc>
-  </url><url>
-    <loc>https://dev-notes.pl:443/tags/shortcodes/</loc>
   </url><url>
     <loc>https://dev-notes.pl:443/search/</loc>
   </url><url>
