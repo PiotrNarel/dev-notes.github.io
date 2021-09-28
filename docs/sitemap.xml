@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dev-notes.pl:80/categories/abc/</loc>
+    <loc>https://dev-notes.pl:443/categories/abc/</loc>
   </url><url>
-    <loc>https://dev-notes.pl:80/archives/</loc>
+    <loc>https://dev-notes.pl:443/archives/</loc>
   </url><url>
-    <loc>https://dev-notes.pl:80/categories/</loc>
+    <loc>https://dev-notes.pl:443/categories/</loc>
   </url><url>
-    <loc>https://dev-notes.pl:80/categories/def/</loc>
+    <loc>https://dev-notes.pl:443/categories/def/</loc>
   </url><url>
-    <loc>https://dev-notes.pl:80/</loc>
+    <loc>https://dev-notes.pl:443/</loc>
   </url><url>
-    <loc>https://dev-notes.pl:80/links/</loc>
+    <loc>https://dev-notes.pl:443/links/</loc>
   </url><url>
-    <loc>https://dev-notes.pl:80/posts/</loc>
+    <loc>https://dev-notes.pl:443/posts/</loc>
   </url><url>
-    <loc>https://dev-notes.pl:80/tags/privacy/</loc>
+    <loc>https://dev-notes.pl:443/tags/privacy/</loc>
   </url><url>
-    <loc>https://dev-notes.pl:80/posts/samplepost/</loc>
+    <loc>https://dev-notes.pl:443/posts/samplepost/</loc>
   </url><url>
-    <loc>https://dev-notes.pl:80/tags/shortcodes/</loc>
+    <loc>https://dev-notes.pl:443/tags/shortcodes/</loc>
   </url><url>
-    <loc>https://dev-notes.pl:80/search/</loc>
+    <loc>https://dev-notes.pl:443/search/</loc>
   </url><url>
-    <loc>https://dev-notes.pl:80/tags/</loc>
+    <loc>https://dev-notes.pl:443/tags/</loc>
   </url>
 </urlset>
