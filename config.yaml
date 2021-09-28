@@ -4,7 +4,7 @@ title : 'dev-notes.pl | Piotr Narel'
 theme : 'PaperMod'
 publishDir : 'docs'
 relativeURLs : true
-paginate: 1
+paginate: 5
 
 enableRobotsTXT : true
 buildDrafts : false

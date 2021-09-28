@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://dev-notes.pl:80/categories/abc/</loc>
+  </url><url>
+    <loc>http://dev-notes.pl:80/archives/</loc>
+  </url><url>
     <loc>http://dev-notes.pl:80/categories/</loc>
   </url><url>
+    <loc>http://dev-notes.pl:80/categories/def/</loc>
+  </url><url>
     <loc>http://dev-notes.pl:80/</loc>
+  </url><url>
+    <loc>http://dev-notes.pl:80/links/</loc>
+  </url><url>
+    <loc>http://dev-notes.pl:80/posts/</loc>
+  </url><url>
+    <loc>http://dev-notes.pl:80/tags/privacy/</loc>
+  </url><url>
+    <loc>http://dev-notes.pl:80/posts/samplepost/</loc>
+  </url><url>
+    <loc>http://dev-notes.pl:80/tags/shortcodes/</loc>
+  </url><url>
+    <loc>http://dev-notes.pl:80/search/</loc>
   </url><url>
     <loc>http://dev-notes.pl:80/tags/</loc>
   </url>
