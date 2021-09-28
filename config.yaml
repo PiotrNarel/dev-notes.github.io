@@ -92,7 +92,8 @@ params:
           url: "https://www.linkedin.com/in/piotr-narel/"
         - name: github
           url: "https://github.com/PiotrNarel"
-
+        - name: rss
+          url: "https://dev-notes.pl/index.xml"
     analytics:
         google:
             SiteVerificationTag: "XYZabc"
