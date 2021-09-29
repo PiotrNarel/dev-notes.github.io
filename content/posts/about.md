@@ -1,7 +1,7 @@
 ---
 author: "Piotr Narel"
 title: "Witam na moim blogu!"
-date: "2021-09-10"
+date: "2021-09-29"
 description: "... czyli kto, co, gdzie i jak :)"
 tags: ["o mnie", "blog"]
 categories: ["blog", "o mnie"]
@@ -10,7 +10,7 @@ comments: true
 
 ### To może kolega najpierw się przedstawi ...
 
-Nazywam się Piotrek. Z zawodu jestem programistą, aczkolwiek w przeszłości wykonywałem inne zawody techniczne związane z elektroniką, energetyką czy automatyką przemysłową. Interesuję się nie tylko szeroko pojętym programowaniem ale również tematyką DevOps i IoT. 
+Nazywam się Piotrek. Z zawodu jestem programistą, aczkolwiek w przeszłości wykonywałem inne zawody techniczne związane z elektroniką, energetyką czy automatyką przemysłową. Interesuję się nie tylko szeroko pojętym programowaniem ale również tematyką Security, Reverse Engineering, DevOps i IoT. 
 
 ### Panie, a co tu będzie?
 
