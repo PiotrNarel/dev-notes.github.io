@@ -5,6 +5,7 @@ layout: ""
 url: "/toolbox/"
 summary: toolbox
 comments: true
+showToc: true
 ---
 
 ### Planowanie, zarządzanie czasem i zadaniami

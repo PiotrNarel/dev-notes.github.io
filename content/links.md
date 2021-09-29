@@ -5,6 +5,7 @@ layout: ""
 url: "/links/"
 summary: categories
 comments: false
+showToc: true
 ---
 
 
@@ -38,7 +39,7 @@ comments: false
 - [Jakub Midel](https://www.youtube.com/c/AkademiaBogactwa)
 - [Przygody Przedsiębiorców](https://www.youtube.com/c/PrzygodyPrzedsi%C4%99biorc%C3%B3w)
 
-### Kanały Youtube:
+### Kanały Youtube
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 - [GynvaelColdwindPL](https://www.youtube.com/user/GynvaelColdwind)
 - [GynvaelColdwindEN](https://www.youtube.com/c/GynvaelEN)
