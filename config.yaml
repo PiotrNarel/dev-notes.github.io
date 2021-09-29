@@ -124,6 +124,10 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
+        - identifier: toolbox
+          name: Narzędziówka
+          url: /toolbox/
+          weight: 5
         - identifier: categories
           name: Kategorie
           url: /categories/

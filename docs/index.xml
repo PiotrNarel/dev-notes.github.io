@@ -30,6 +30,15 @@
       <description>categories</description>
     </item>
     
+    <item>
+      <title>Narzędziówka	</title>
+      <link>https://dev-notes.pl:443/toolbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev-notes.pl:443/toolbox/</guid>
+      <description>toolbox</description>
+    </item>
+    
     
   </channel>
 </rss>
