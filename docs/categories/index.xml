@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-PL</language>
-    <lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-notes.pl:443/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-notes.pl:443/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HR</title>
+      <link>https://dev-notes.pl:443/categories/hr/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev-notes.pl:443/categories/hr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Praca</title>
+      <link>https://dev-notes.pl:443/categories/praca/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev-notes.pl:443/categories/praca/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blog</title>
       <link>https://dev-notes.pl:443/categories/blog/</link>
