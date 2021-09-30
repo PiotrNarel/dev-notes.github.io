@@ -1,6 +1,7 @@
 ---
 author: "Piotr Narel"
-title: "Narzędziówka	"
+title: "Narzędziówka"
+description: "... czyli lista narzędzi, których używam"
 layout: ""
 url: "/toolbox/"
 summary: toolbox
