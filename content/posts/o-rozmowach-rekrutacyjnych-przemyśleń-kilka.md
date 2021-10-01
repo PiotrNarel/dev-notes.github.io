@@ -76,15 +76,14 @@ Pokazujesz, że wiesz gdzie szukać rozwiązań, komunikujesz się, pokazujesz i
 > - "A czy to trudne jest do wdrożenia?"
 > - ... etc.
 
-Jeżeli ciężko jest Ci się przełamać w komunikacji, wyobraź sobie, że rozmawiasz na te tematy przy kawie z kolegą z pokoju, prowadzisz luźną dyskusję techniczną na temat technologii. Pokazuj inicjatywę, dociekliwość. Zawód programisty to ciągły stan bycia w niewiedzy, a umiejętność dyskusji, zadawania pytań i rozwiązywania problemów jest kluczowa.
+Jeżeli ciężko jest Ci się przełamać w komunikacji, wyobraź sobie, że rozmawiasz na te tematy przy kawie z kolegą z pokoju, prowadzisz luźną dyskusję techniczną na temat technologii. Zawód programisty to ciągły stan bycia w niewiedzy, a umiejętność dyskusji, zadawania pytań i rozwiązywania problemów jest kluczowa.
 
-
-Spójrz z innej perspektywy:
+A tak na koniec, może warto spojrzeć z innej perspektywy?
 > - Czy jak będę zadawał pytania czy się coś stanie? Czy zginie mały kotek lub zabiję człowieka? (mam nadzieję, że nie aplikujesz do organizacji terrorystycznych😃)
 > - Ej, Ci ludzie mogą być potencjalnie moimi kolegami z pracy. Muszę się im przyjrzeć dokładniej, wypytać ich o wszystko.
 > - Ej, a w sumie co mam do stracenia? Mogę zyskać fajną pracę lub ewentualnie uniknąć jakiegoś bagna projektowego, toksycznych relacji, słabej pracy?
 
-A tak całkowicie na koniec... Dodajmy czasem szczyptę humoru do rozmowy. To też jest miły akcent, który pozwoli zapunktować, zapamiętać się, a po pozytywnym rozpatrzeniu rektuacji ... miło spędzać czas w roboczogodzinach :)
+Dodajmy jeszcze szczyptę humoru do rozmowy. To też jest miły akcent, który pozwoli zapunktować, zapamiętać się, a po pozytywnym rozpatrzeniu rektuacji ... miło spędzać czas w roboczogodzinach :)
 
 ### Do brzegu ...
 
