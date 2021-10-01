@@ -95,12 +95,12 @@ params:
         - name: rss
           url: "https://dev-notes.pl/index.xml"
     analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
-        bing:
-            SiteVerificationTag: "XYZabc"
-        yandex:
-            SiteVerificationTag: "XYZabc"
+        # google:
+        #     SiteVerificationTag: "XYZabc"
+        # bing:
+        #     SiteVerificationTag: "XYZabc"
+        # yandex:
+        #     SiteVerificationTag: "XYZabc"
 
     cover:
         hidden: true # hide everywhere but not in structured data
