@@ -1,5 +1,6 @@
 baseURL : 'dev-notes.pl'
 languageCode : 'pl-PL'
+DefaultContentLanguage : "pl"
 title : 'dev-notes.pl | Piotr Narel'
 theme : 'PaperMod'
 publishDir : 'docs'
