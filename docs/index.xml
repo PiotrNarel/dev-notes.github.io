@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-PL</language>
-    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-notes.pl:443/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-notes.pl:443/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zniknięty Facebook, Messenger, WhatsApp i Instagram</title>
+      <link>https://dev-notes.pl:443/posts/znikniety-facebook-instagram/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev-notes.pl:443/posts/znikniety-facebook-instagram/</guid>
+      <description>Dzisiaj krótki wpis o wczorajszej awarii Facebook&amp;rsquo;a, Messenger&amp;rsquo;a, Instagram&amp;rsquo;a i WhatsApp&amp;rsquo;a. Awaria dosyć gruba, bo mówimy tutaj o kilkugodzinnym przestoju tych systemów. Z pozoru może wydawać się, że problem nie jest jakiś krytyczny, bo w sumie nie są to portale pierwszych potrzeb. Ale po chwili zastanowienia można dojść, że jednak taka przerwa była pewnego rodzaju niezłym pstryczkiem w nos. Pokazało to jak niewiele potrzeba żeby ogromne portale, z nieprzeciętnym zapleczem finansowym, sprzętowym i ludzkim zniknęły z internetu na kilka godzin wywołując niemały paraliż.</description>
+    </item>
+    
     <item>
       <title>O rozmowach rekrutacyjnych przemyśleń kilka</title>
       <link>https://dev-notes.pl:443/posts/o-rozmowach-rekrutacyjnych-przemy%C5%9Ble%C5%84-kilka/</link>

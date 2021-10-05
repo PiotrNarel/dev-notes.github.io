@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on dev-notes.pl | Piotr Narel</title>
-    <link>https://dev-notes.pl:443/posts/</link>
-    <description>Recent content in Posts on dev-notes.pl | Piotr Narel</description>
+    <title>facebook on dev-notes.pl | Piotr Narel</title>
+    <link>https://dev-notes.pl:443/tags/facebook/</link>
+    <description>Recent content in facebook on dev-notes.pl | Piotr Narel</description>
     <image>
       <url>https://dev-notes.pl:443/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://dev-notes.pl:443/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-PL</language>
-    <lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-notes.pl:443/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-notes.pl:443/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zniknięty Facebook, Messenger, WhatsApp i Instagram</title>
       <link>https://dev-notes.pl:443/posts/znikniety-facebook-instagram/</link>
@@ -18,24 +18,6 @@
       
       <guid>https://dev-notes.pl:443/posts/znikniety-facebook-instagram/</guid>
       <description>Dzisiaj krótki wpis o wczorajszej awarii Facebook&amp;rsquo;a, Messenger&amp;rsquo;a, Instagram&amp;rsquo;a i WhatsApp&amp;rsquo;a. Awaria dosyć gruba, bo mówimy tutaj o kilkugodzinnym przestoju tych systemów. Z pozoru może wydawać się, że problem nie jest jakiś krytyczny, bo w sumie nie są to portale pierwszych potrzeb. Ale po chwili zastanowienia można dojść, że jednak taka przerwa była pewnego rodzaju niezłym pstryczkiem w nos. Pokazało to jak niewiele potrzeba żeby ogromne portale, z nieprzeciętnym zapleczem finansowym, sprzętowym i ludzkim zniknęły z internetu na kilka godzin wywołując niemały paraliż.</description>
-    </item>
-    
-    <item>
-      <title>O rozmowach rekrutacyjnych przemyśleń kilka</title>
-      <link>https://dev-notes.pl:443/posts/o-rozmowach-rekrutacyjnych-przemy%C5%9Ble%C5%84-kilka/</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-notes.pl:443/posts/o-rozmowach-rekrutacyjnych-przemy%C5%9Ble%C5%84-kilka/</guid>
-      <description>... czyli o dwóch jeźdźcach na koniach i &amp;#39;zadzwonimy do Pana&amp;#39;</description>
-    </item>
-    
-    <item>
-      <title>Witam na moim blogu!</title>
-      <link>https://dev-notes.pl:443/posts/about/</link>
-      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-notes.pl:443/posts/about/</guid>
-      <description>... czyli kto, co, gdzie i jak :)</description>
     </item>
     
   </channel>
