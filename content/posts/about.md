@@ -12,8 +12,6 @@ comments: true
 
 Nazywam się Piotrek. Z zawodu jestem programistą, aczkolwiek w przeszłości wykonywałem inne zawody techniczne związane z elektroniką, energetyką czy automatyką przemysłową. Interesuję się nie tylko szeroko pojętym programowaniem ale również tematyką Security, Reverse Engineering, DevOps i IoT. 
 
-### Panie, a co tu będzie?
-
 Jakiś czas temu zauważyłem, że brakuje mi miejsca, gdzie mógłbym zostawić notatkę dotyczącą rozwiązania jakiegoś problemu, zapisać jakieś swoje przemyślenia techniczne - zachowując do tego szybki dostęp i możliwość dzielenia się notkami z innymi. Internet pamięta, internet nie wybacza ... więc padło na bloga :)
 
 ### Po godzinach:
